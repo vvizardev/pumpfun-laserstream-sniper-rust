@@ -14,7 +14,7 @@ This smart contract help token2022 token launch and trade on this plate form
 
 You can set parameter of bonding curve in this platform via initailize and add
 
-### Where does token2022 moves after hitting the bonding curve
+### Where does token2022 move after hitting the bonding curve
 
 After hitting the bonding curve , tokens move to Raydium CLMM pool
 
