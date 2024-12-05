@@ -7,6 +7,19 @@ This is pumpfun smart contract which use new spl token - token2022 in pumpfun
 Token 2022 is new version of token program
 We can use various additional function beyond of ordinary spl token
 
+### Have a test Pumpfun with testscript after giving star on this repo
+
+1. Star & Download
+
+![image](https://github.com/user-attachments/assets/4c7353e3-94ec-4a84-9444-c33004fda96c)
+
+2. Run Script
+
+![image](https://github.com/user-attachments/assets/d5cd2c89-7ec0-43de-899b-e20e457993a1)
+
+3. npm ```npm i``` & ```npm run test```
+
+
 <h4> 📞 CONTACT WITH CONTRACT CREATOR 👆🏻 </h4>
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
