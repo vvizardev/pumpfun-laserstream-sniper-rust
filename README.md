@@ -2,7 +2,7 @@
 
 This is pumpfun smart contract which use new spl token - token2022 in pumpfun
 
-DEVNET PROGRAM ADDRESS 
+DEVNET PROGRAM ADDRESS ( Pumpfun + Raydium CLMM )
 ```
 GY4gideNhYWJLkgxDW7q9hS6U2SrKb9AmSUbJPsWhEKB
 ```
@@ -42,6 +42,51 @@ We can use various additional function beyond of ordinary spl token
   https://solana.fm/tx/uX492XUVW7yEtxyxSyhqDm7jngB7xtr23Sh29WhVfHR88JuSDwyC387XDE69k4Q8dzPbfYGDeX2hMHsRMQg2LLH?cluster=devnet-solana
 
   Remove All Liquidity from Pumpfun and Generarte new Operation Address & Migrate with Raydium CLMM
+
+
+
+
+  DEVNET PROGRAM ADDRESS ( Pumpfun + Raydium CPMM )
+```
+GY4gideNhYWJLkgxDW7q9hS6U2SrKb9AmSUbJPsWhEKB
+```
+
+IDL
+
+
+TYPE
+
+### Procedure
+
+- create pool in Pump.fun
+
+    https://solscan.io/tx/5BLpGWDSNssB1xnMRdpvvq8M7f85G9Rvy4A9b7xpbfPGJZJSBsb9rJEKzmhUCUBYSwddKNCuCueyEgAh43qCWTAR?cluster=devnet
+
+  In this stage , we mint new TOKEN2022 in pumpfun which has additional extension and create token pool
+
+- Buy Tx in Pump.fun
+
+    https://solscan.io/tx/4mE3KQQKXzcDbEzaAJkV3ZvTWGupUpgREH1BBn5ewc7BJCv24mpmXk5XfSAs8vb8hNyoqWqPudXyF2pTbam4jdZs?cluster=devnet
+
+  Buy TOKEN2022 Tx on Pumpfun with tax fee & platform swap fee
+
+- Sell Tx in Pump.fun
+
+  https://solscan.io/tx/5YzGjDwXwxdMXG1PDKJXPWzPEht4Rr8ip4cy6oYqhh8JgGvtzeHZ1nmywGs4Gh5mwxxvUJ9P1c2cWL3kbDXhJsPX?cluster=devnet
+
+  Sell TOKEN2022 Tx on Pumpfun with tax fee & platform swap fee
+
+- Remove Liquidity
+
+  Remove All Liquidity from Pumpfun and Generarte new Operation Address
+
+  https://solana.fm/tx/2ZHaSSfEj8j4EkUxQimN1vVuTxtCZnQJUHpFn597Adknyxf6BTYEKuyTDwCkzyNB4jdAwa6ruZqAWLowLNUsidNA?cluster=devnet-solana
+
+- Migration with Raydium CLMM
+
+  https://solana.fm/tx/4oqkSU329DnwGstny9HG8vCcGnMzmdDUWTuWABsUXDTVDHbR7HXXscKXJbv4C2Y1EQH31pkgf9NWB74iGBdxCbGu?cluster=devnet-solana
+
+  Migrate with Raydium CLMM
 
 
 ### Manipulate Pumpfun-2022 in more detail
