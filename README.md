@@ -7,6 +7,8 @@ This is pumpfun smart contract which use new spl token - token2022 in pumpfun
 Token 2022 is new version of token program
 We can use various additional function beyond of ordinary spl token
 
+
+
 DEVNET PROGRAM ADDRESS ( Pumpfun + Raydium CLMM )
 ```
 Fu6WXgEQeVBrsvHbwh8vStwLxjA12E9KYjPzXnJ1sQC7
@@ -38,6 +40,8 @@ Fu6WXgEQeVBrsvHbwh8vStwLxjA12E9KYjPzXnJ1sQC7
   https://solana.fm/tx/uX492XUVW7yEtxyxSyhqDm7jngB7xtr23Sh29WhVfHR88JuSDwyC387XDE69k4Q8dzPbfYGDeX2hMHsRMQg2LLH?cluster=devnet-solana
 
   Remove All Liquidity from Pumpfun and Generarte new Operation Address & Migrate with Raydium CLMM
+
+
 
 
 DEVNET PROGRAM ADDRESS ( Pumpfun + Raydium CPMM )
@@ -73,7 +77,9 @@ GY4gideNhYWJLkgxDW7q9hS6U2SrKb9AmSUbJPsWhEKB
 
   https://solana.fm/tx/5iHdBwV2d9RsqmawRuUSRiJfb5k22ooZTpCJhigBiXpYrbep7pK4rYKyq2MQgtiSYYTzsDB1wKtrmtx45K93D7p5?cluster=devnet-solana
 
- Migrate with Raydium CPMM
+
+
+
 
 ### Manipulate Pumpfun-2022 in more detail
 
