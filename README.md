@@ -9,7 +9,7 @@ We can use various additional function beyond of ordinary spl token
 
 ### Test Script for testing Pumpfun
 
-1. Download
+1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-token2022.git```
 
 2. ```npm i```
 
