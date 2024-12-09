@@ -11,9 +11,11 @@ We can use various additional function beyond of ordinary spl token
 
 1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-token2022.git```
 
-2. ```npm i```
+2. Extract File
 
-3. ```npm run test```
+3. ```yarn```
+
+4. ```yarn test```
 
 
 <h4> 📞 CONTACT WITH CONTRACT CREATOR 👆🏻 </h4>
