@@ -7,7 +7,7 @@ This is pumpfun smart contract which use new spl token - token2022 in pumpfun
 Token 2022 is new version of token program
 We can use various additional function beyond of ordinary spl token
 
-### Pumpfun Brief
+### Features
 - Launch token2022 on SmartContract with custom extension
 - Disable mint authority , freeze authority
 - set fee basepoint and max fee point
