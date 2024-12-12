@@ -1,11 +1,6 @@
-# TOKEN2022-Pumpfun
+# Pumpfun-Smart-Contract-v2.0 ( TAX TOKEN )
 
 This is pumpfun smart contract which use new spl token - token2022 in pumpfun
-
-### Why use token2022 ( TAX TOKEN )
-
-Token 2022 is new version of token program
-We can use various additional function beyond of ordinary spl token
 
 ### Features
 - Launch token2022 on SmartContract with custom extension
@@ -15,7 +10,7 @@ We can use various additional function beyond of ordinary spl token
 
 ### Test Script for testing Pumpfun
 
-1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-token2022.git```
+1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-v2.0.git```
 
 2. Extract File
 
