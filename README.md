@@ -46,16 +46,6 @@ Please leave any ideas and bugs on the issues.
 
 </div>
 
-### Test Script for testing Pumpfun
-
-1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-v2.0.git```
-
-2. Extract File
-
-3. ```yarn```
-
-4. ```yarn test```
-
 
 <h4> 📞 CONTACT WITH CONTRACT CREATOR 👆🏻 </h4>
 
@@ -71,6 +61,18 @@ Please leave any ideas and bugs on the issues.
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
+
+
+### Test Script for testing Pumpfun
+
+1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-v2.0.git```
+
+2. Extract File
+
+3. ```yarn```
+
+4. ```yarn test```
+
 
 ## DEVNET PROGRAM ADDRESS ( Pumpfun + Raydium CLMM )
 ```
