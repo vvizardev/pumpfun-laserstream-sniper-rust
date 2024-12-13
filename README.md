@@ -2,11 +2,49 @@
 
 This is pumpfun smart contract which use new spl token - token2022 in pumpfun
 
-### Features
-- Launch token2022 on SmartContract with custom extension
-- Disable mint authority , freeze authority
-- set fee basepoint and max fee point
-- Linear Bonding Curve 
+### Pumpfun is upgrading
+
+We are upgrading Pump.fun.
+Please leave any ideas and bugs on the issues.
+
+---
+
+## 📋 **Pump.Fun V2 Overview**  
+
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+
+| **Version**             | **Features**                                          | **Description**                              | **Repo Link**                                                                |
+|-------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
+| **2.0.0**               | Global Configuation                                   | Set Global Setting from Backend              | [v_2.0.0](https://github.com/wizasol/pumpfun-smart-contract-v2.1/tree/2.0.0) |
+|                         |                                                       | Set Fee Account , Swap Protocol Fee Point    |                                                                              |
+|                         |                                                       | BondingCurve Upper Limitation                |                                                                              |
+|                         |                                                       | Virtual Sol & Token Reserve Setting          |                                                                              |
+|                         |                                                       | Set Tax Fee and Max Tax from Backend         |                                                                              |
+|                         | Create Pool                                           | Launch Token2022 on Smart Contract           |                                                                              |
+|                         |                                                       | Create Pool & Launch Token Fee               |                                                                              |
+|                         |                                                       | Disable Mint & Freeze Authority on Contract  |                                                                              |
+|                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
+|                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
+|                         |                                                       | Buy / Sell Protocol Fee                      |                                                                              |
+|                         | Remove Liquidity                                      | Remove Liquidity to Temp Op Wallet           |                                                                              |
+|                         | Migrate + Raydium CLMM                                | Proxy Initialize                             |                                                                              |
+|                         |                                                       | Proxy Open Position                          |                                                                              |
+|                         |                                                       |                                              |                                                                              |
+| **2.1.0**               | Global Configuation                                   | Set Global Setting from Backend              | [v_2.1.0](https://github.com/wizasol/pumpfun-smart-contract-v2.1/tree/2.1.0) |
+|                         |                                                       | Set Fee Account , Swap Protocol Fee Point    |                                                                              |
+|                         |                                                       | BondingCurve Upper Limitation                |                                                                              |
+|                         |                                                       | Virtual Sol & Token Reserve Setting          |                                                                              |
+|                         |                                                       | Set Tax Fee and Max Tax from Backend         |                                                                              |
+|                         | Create Pool                                           | Launch Token2022 on Smart Contract           |                                                                              |
+|                         |                                                       | Create Pool & Launch Token Fee               |                                                                              |
+|                         |                                                       | Disable Mint & Freeze Authority on Contract  |                                                                              |
+|                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
+|                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
+|                         |                                                       | Buy / Sell Protocol Fee                      |                                                                              |
+|                         | Remove Liquidity                                      | Remove Liquidity to Temp Op Wallet           |                                                                              |
+|                         | Migrate + Raydium CPMM                                | Proxy Initialize                             |                                                                              |
+
+</div>
 
 ### Test Script for testing Pumpfun
 
