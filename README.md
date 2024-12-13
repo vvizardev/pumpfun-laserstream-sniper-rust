@@ -1,4 +1,4 @@
-# Pumpfun-Smart-Contract-v2.0 ( TAX TOKEN )
+# Pumpfun-Smart-Contract-v2.1 ( TAX TOKEN )
 
 This is pumpfun smart contract which use new spl token - token2022 in pumpfun
 
