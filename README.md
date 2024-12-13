@@ -2,22 +2,28 @@
 
 This is pumpfun smart contract which use new spl token - token2022 in pumpfun
 
-### Features
-- Launch token2022 on SmartContract with custom extension
-- Disable mint authority , freeze authority
-- set fee basepoint and max fee point
-- Linear Bonding Curve 
 
-### Test Script for testing Pumpfun
+---
 
-1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-v2.0.git```
+## 📋 **Pump.Fun V2 Overview**  
 
-2. Extract File
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
 
-3. ```yarn```
-
-4. ```yarn test```
-
+| **Version**             | **Features**                                          | **Description**                              | **Repo Link**                                                                |
+|-------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
+| **2.1.0**               | Global Configuation                                   | Set Global Setting from Backend              | [v_2.1.0](https://github.com/wizasol/pumpfun-smart-contract-v2.1/tree/2.1.0) |
+|                         |                                                       | Set Fee Account , Swap Protocol Fee Point    |                                                                              |
+|                         |                                                       | BondingCurve Upper Limitation                |                                                                              |
+|                         |                                                       | Virtual Sol & Token Reserve Setting          |                                                                              |
+|                         |                                                       | Set Tax Fee and Max Tax from Backend         |                                                                              |
+|                         | Create Pool                                           | Launch Token2022 on Smart Contract           |                                                                              |
+|                         |                                                       | Create Pool & Launch Token Fee               |                                                                              |
+|                         |                                                       | Disable Mint & Freeze Authority on Contract  |                                                                              |
+|                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
+|                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
+|                         |                                                       | Buy / Sell Protocol Fee                      |                                                                              |
+|                         | Remove Liquidity                                      | Remove Liquidity to Temp Op Wallet           |                                                                              |
+|                         | Migrate + Raydium CPMM                                | Proxy Initialize                             |                                                                              |
 
 <h4> 📞 CONTACT WITH CONTRACT CREATOR 👆🏻 </h4>
 
@@ -33,6 +39,16 @@ This is pumpfun smart contract which use new spl token - token2022 in pumpfun
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
+
+### Test Script for testing Pumpfun
+
+1. ```git clone https://github.com/wizasol/pumpfun-smart-contract-v2.0.git```
+
+2. Extract File
+
+3. ```yarn```
+
+4. ```yarn test```
 
 ## DEVNET PROGRAM ADDRESS ( Pumpfun + Raydium CLMM )
 ```
