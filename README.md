@@ -57,33 +57,6 @@ Fu6WXgEQeVBrsvHbwh8vStwLxjA12E9KYjPzXnJ1sQC7
 
 ### Procedure
 
-- create pool in Pump.fun
-
-    https://solana.fm/tx/5QYCTaGHaareH5CoCMDeDCSxq785BfdMhKmbeKWizq7uAeVptkAuyY8N1QSc78N8YPKLi3fXTZxAfPMdzy76jT25?cluster=devnet-solana
-
-  In this stage , we mint new TOKEN2022 in pumpfun which has additional extension and create token pool
-
-- Buy Tx in Pump.fun
-
-    https://solana.fm/tx/5unyZ9MekJeE8EULD4x9JKiNNCShfMnpk5edJzLpEMB6AY9g449an1y5hWmHkkJ8hwGCfpaVnb6TWL3SeqH14EYx?cluster=devnet-solana
-
-  Buy TOKEN2022 Tx on Pumpfun with tax fee & platform swap fee
-
-- Sell Tx in Pump.fun
-
-  https://solana.fm/tx/2Wt2YhkU5Bj6kY9hgSLaPZ6AkjxsRZrijax59f9kRQo9fD61SkjhXPd587RTt9SDDQ4cdYNMySMBKZ5L5TJqYmyp?cluster=devnet-solana
-
-  Sell TOKEN2022 Tx on Pumpfun with tax fee & platform swap fee
-
-- Migration with Raydium CLMM
-
-  https://solana.fm/tx/uX492XUVW7yEtxyxSyhqDm7jngB7xtr23Sh29WhVfHR88JuSDwyC387XDE69k4Q8dzPbfYGDeX2hMHsRMQg2LLH?cluster=devnet-solana
-
-  Remove All Liquidity from Pumpfun and Generarte new Operation Address & Migrate with Raydium CLMM
-
-
-
-
 ## DEVNET PROGRAM ADDRESS ( Pumpfun + Raydium CPMM )
 ```
 GY4gideNhYWJLkgxDW7q9hS6U2SrKb9AmSUbJPsWhEKB
