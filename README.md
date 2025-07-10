@@ -37,6 +37,9 @@ Sniper Wallet : 3pxbFuLSBLcborDUyCgbk5EFDFqZYgZx7iJXykSXqQPJ
 
 ## Recent Snipes and Stats
 
+I've had a test this bot 15 times snipe buy in a row.
+Below Stats are neither chosen nor filtered.
+
 | BUY Transaction                                                | MINT Transaction                                               | Block | First Buyer |
 |------------------------------------------------------------|------------------------------------------------------------|-------|-------------|
 | [2TEZR..AEtuef](https://solscan.io/tx/2TEZRsnb1j8RKn2b13zLPg5gHGHShevCzvxsfFuUZFupvuM8ytQCDJgzAuF2P186AsgNvQFh77QaVLN9fQAEtuef) | [4R7xa..ToRok](4R7xap51D4boBBKATSt84DmZtEq43wxxWMvTC9835MDHnK9uH8YaDpxkyeWSwGnhPBJxXN8PCKx37xU59uKToRok) | 0     | ✔           |
