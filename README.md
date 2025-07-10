@@ -10,8 +10,9 @@
 
 This bot leverages native Solana RPC, optimized transaction pipelines, and aggressive mempool monitoring to maximize front-running and arbitrage opportunities.
 
----
+🔓 Open Source — If you find this project useful, a ⭐️ Star and a 🍴 Fork would mean a lot!
 
+---
 ## Features
 
 - ⚡ **Ultra low-latency** Rust implementation with asynchronous concurrency
@@ -24,15 +25,6 @@ This bot leverages native Solana RPC, optimized transaction pipelines, and aggre
 - 📈 Detailed logs and analytics for trade performance review
 
 ---
-
-## Requirements
-
-- Rust 1.70+ (stable)
-- Linux/macOS (recommended for best performance)
-- Internet connection with access to Solana RPC endpoints
-
----
-
 ## Usage
 
 ```bash
@@ -76,3 +68,9 @@ Sniper Wallet : 3pxbFuLSBLcborDUyCgbk5EFDFqZYgZx7iJXykSXqQPJ
 | 3 block      | 1 / 15 |
 
 **First Buyer Count:** 9 / 15
+
+## About Test Mode
+
+You can easily have a test current snipe bot. `pumpfun-laserstream-sniper-trial`
+In test mode , you can only buy 0.01 token with 1 lamport.
+If you wanna get source code , reach me out on [vvizardev's telegram](https://t.me/vvizardev)
